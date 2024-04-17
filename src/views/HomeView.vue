@@ -61,7 +61,7 @@ body {
 
 .container {
   text-align: center;
-  color: var(--color);
+  color: #333;
   width: 100%;
   min-height: 100vh;
   display: flex;
@@ -90,7 +90,7 @@ p {
 a {
   display: inline-block;
   padding: 1em 3.5em;
-  background-color: var(--color);
+  background-color: #333;
   color: white;
   text-decoration: none;
   text-transform: uppercase;
@@ -104,7 +104,7 @@ a {
 .other {
   width: 100%;
   min-height: 60vh;
-  background-color: var(--color);
+  background-color:#333;
 }
 
 .second {
