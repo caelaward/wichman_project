@@ -1,4 +1,6 @@
 <template>
+
+      <!-- <NavComp/> -->
     <div class="container">
   <h1>Wichman and CO</h1>
   <p>Zlatibor is a mountain of exceptional beauty whose special geographical properties have made this mountain a real gem of western Serbia.</p>
@@ -117,22 +119,29 @@
 </div>
   
 <div class="blank">
+  <FooterComp/>
   
 </div>
 </template>
 
 <script>
 
+import FooterComp from '../components/FooterComp.vue'
+// import NavComp from '../components/NavComp.vue'
+
 
 export default {
  
   components: {
+    FooterComp,
+    // NavComp
    
   }
 }
 </script>
 
 <style scoped>
+
   @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@400;700&display=swap');
 
 :root{
