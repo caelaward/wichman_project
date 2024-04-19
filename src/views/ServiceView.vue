@@ -5,19 +5,19 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="box">
-                       <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" alt="">
+                       <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" id="img" alt="">
                       <p>hi</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="box2">
-                       <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" alt="">
+                       <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" id="img" alt="">
                       <p>hi</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="box3">
-                       <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" alt="">
+                       <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" id="img" alt="">
                       <p>hi</p>
                     </div>
                 </div>
@@ -82,6 +82,9 @@
     height: 500px;
     background-color: rgba(217, 217, 217, 0.15);
     text-align: center;
+    padding: 2.5px;
+    /* display: flex; */
+    /* flex-direction: column; */
 
 }
 img{
@@ -89,6 +92,13 @@ img{
     height: 100px;
     border-radius: 50%;
     margin-top: 40px;
+}
+#img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: 120px;
 }
 .box4, .box5 {
    /* position: relative; */
