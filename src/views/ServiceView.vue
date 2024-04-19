@@ -43,10 +43,40 @@
                 </div>
             </div>
          </div>
+         <br>
+         <h1>CORPORATE EVENTS</h1>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 d-flex justify-content-between">
+                    <div class="box4">
+                       <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" alt="">
+                      <p>hi</p>
+                    </div>
+                </div>
+                <div class="col-lg-6 d-flex justify-content-between">
+                    <div class="box5">
+                       <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" alt="">
+                      <p>hi</p>
+                    </div>
+                </div>
+            </div>
+         </div>
+         <br>
+         <h1>CATERING</h1>
+         <div class="box6">
+            <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" alt="">
+            <p>hi</p>
+         </div>
+         <br>
+         <h1>STAFF</h1>
+         <div class="box7">
+            <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" alt="">
+            <p>hi</p>
+         </div>
     </div>
 </template>
 
-<style>
+<style scoped>
 .box,.box2,.box3{
     width: 350px;
     height: 500px;
@@ -72,6 +102,20 @@ img{
         justify-content: center;
         align-items: center;
 
+}
+.box6,.box7{
+    background-color: rgba(217, 217, 217, 0.15);
+    height: 400px;
+    margin-bottom: 35px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+        align-items: center;
+        flex-direction: column;
+}
+h1{
+    color: rgb(175,148,83) !important;
+    letter-spacing: 0.45em !important;
 }
 
 </style>
