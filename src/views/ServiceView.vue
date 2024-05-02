@@ -74,7 +74,19 @@
             <p>hi</p>
          </div>
     </div>
+    <FooterComp/>
 </template>
+
+<script>
+import FooterComp from '../components/FooterComp.vue'
+export default {
+    components: {
+    FooterComp,
+    // NavComp
+   
+  }
+}
+</script>
 
 <style scoped>
 .box,.box2,.box3{

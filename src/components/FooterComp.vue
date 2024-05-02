@@ -48,7 +48,8 @@
 <style scoped>
 
 footer{
-    margin-top:7%
+    margin-top:7%;
+    background-color:#333
 }
 
 .text-small {

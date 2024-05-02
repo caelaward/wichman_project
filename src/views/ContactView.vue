@@ -50,8 +50,19 @@
         </div>
     </div>
 </div>
-
+<FooterComp/> 
 </template>
+
+<script>
+import FooterComp from '../components/FooterComp.vue'
+export default {
+    components: {
+    FooterComp,
+    // NavComp
+   
+  }
+}
+</script>
 
 
 
