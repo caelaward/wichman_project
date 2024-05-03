@@ -5,19 +5,19 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="box">
-                       <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" id="img" alt="">
+                       <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" id="img" alt="">
                       <p>hi</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="box2">
-                       <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" id="img" alt="">
+                       <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" id="img" alt="">
                       <p>hi</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="box3">
-                       <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" id="img" alt="">
+                       <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" id="img" alt="">
                       <p>hi</p>
                     </div>
                 </div>
@@ -31,13 +31,13 @@
             <div class="row">
                 <div class="col-lg-6 d-flex justify-content-between">
                     <div class="box4">
-                       <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" alt="">
+                       <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" alt="">
                       <p>hi</p>
                     </div>
                 </div>
                 <div class="col-lg-6 d-flex justify-content-between">
                     <div class="box5">
-                       <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" alt="">
+                       <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" alt="">
                       <p>hi</p>
                     </div>
                 </div>
@@ -49,13 +49,13 @@
             <div class="row">
                 <div class="col-lg-6 d-flex justify-content-between">
                     <div class="box4">
-                       <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" alt="">
+                       <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" alt="">
                       <p>hi</p>
                     </div>
                 </div>
                 <div class="col-lg-6 d-flex justify-content-between">
                     <div class="box5">
-                       <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" alt="">
+                       <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" alt="">
                       <p>hi</p>
                     </div>
                 </div>
@@ -64,13 +64,13 @@
          <br>
          <h1>CATERING</h1>
          <div class="box6">
-            <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" alt="">
+            <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" alt="">
             <p>hi</p>
          </div>
          <br>
          <h1>STAFF</h1>
          <div class="box7">
-            <img src="https://cdn-images.imagevenue.com/8b/36/7e/ME181AUU_o.jpg" alt="">
+            <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" alt="">
             <p>hi</p>
          </div>
     </div>
@@ -88,17 +88,17 @@
 
 }
 img{
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     margin-top: 40px;
 }
 #img{
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     margin-top: 40px;
-    margin-left: 120px;
+    margin-left: 100px;
 }
 .box4, .box5 {
    /* position: relative; */
