@@ -12,13 +12,13 @@
         </div>
 
         <div class="row gy-4">
-          <div class="col-lg-7 position-relative about-img" style="background-image: url(https://i.ibb.co/g4F1L9N/imgEX.jpg) ;" data-aos="fade-up" data-aos-delay="150">
+          <div class="col-lg-7 position-relative about-img" style="background-image: url(https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg) ;" data-aos="fade-up" data-aos-delay="150">
             <div class="call-us position-absolute">
-              <h4>Book a Table</h4>
+              <h4>Get in touch</h4>
               <p>+1 5589 55488 55</p>
             </div>
           </div>
-          <div class="col-lg-5 d-flex align-items-end" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-4 d-flex align-items-end" data-aos="fade-up" data-aos-delay="300">
             <div class="content ps-0 ps-lg-5">
               <p class="fst-italic">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
@@ -41,6 +41,8 @@
 
       </div>
     </section><!-- End About Section -->
+
+    
     <FooterComp/>
 
      
@@ -197,6 +199,7 @@ export default {
     opacity: 0;
   }
 }
+
 
 
 </style>
