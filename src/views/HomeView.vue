@@ -4,7 +4,7 @@
     <div class="container-fluid">
       <div class="box" >
         <h1 >Wichman and CO Event Planning</h1>
-        <p >Zlatibor is a mountain of exceptional beauty whose special geographical properties have made this mountain a real gem of western Serbia.</p>
+        <p>Zlatibor is a mountain of exceptional beauty whose special geographical properties have made this mountain a real gem of western Serbia.</p>
         <a href="#" >Learn more</a>
       </div>
 </div>
@@ -180,10 +180,15 @@ h1 {
 
 p {
   max-width: 52ch;
+  flex-wrap: wrap;
   line-height: 1.5;
+  margin-left:155px;
   padding: 1em;
-  
+  text-align: center; /* Centers the text horizontally within the paragraph */
+  vertical-align: middle; /* Aligns the paragraph vertically in its containing element */
 }
+
+
 
 a {
   display: inline-block;
