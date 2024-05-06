@@ -5,7 +5,7 @@
     <div class="box" >
       <h1 >Wichman and CO Event Planning</h1>
       <p class="mid">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet repellendus veniam voluptatibus ducimus eligendi dolore asperiores soluta ipsa voluptatum, laborum aspernatur rem. Nihil.</p>
-      <a href="#" >Learn more</a>
+       <router-link to="/about" @click="scrollToTop()">Learn more</router-link>
     </div>
   </div>
   
@@ -149,28 +149,17 @@
   
   <div class="card">
     <h3>Services</h3>
-<<<<<<< HEAD
-    <p  class="txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, quidem! Possimus distinctio repellendus veniam adipisci totam nam dolorem, accusantium, est ex magnam voluptate, sequi nihil !</p>
-    <a href="#">Learn more</a>
-=======
-    <p  class="txt">Exploring underground through networks of tunnels and passageways, which can be natural or artificial.</p>
+    <p  class="txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, eos perspiciatis praesentium inventore repellendus sequi porro quidem impedit optio iure quis, explicabo obcaecati eveniet eius distinctio. Officia nihil amet in.</p>
     <router-link to="/service" @click="scrollToTop()">Learn more</router-link>
->>>>>>> a380c3be438a4335150d5a960169ffff04add992
   </div>
   </div>
   <div class="item">
   
   <div class="card">
-<<<<<<< HEAD
-    <h3>Our Work</h3>
-    <p class="txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus error, rem cupiditate animi dolorem architecto ut. Id esse maxime quia porro voluptatum accusamus, in optio odio saepe aperiam ipsam asperiores!</p>
-    <a href="#">Learn more</a>
-=======
     <h3>Our work</h3>
-    <p class="txt">Jumping from an aeroplane and falling through the air before opening your parachute.</p>
-    <router-link to="/about" @click="scrollToTop()">Learn more</router-link>
+    <p class="txt">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos consequatur autem iure placeat possimus quo accusantium fugit, necessitatibus nesciunt, cum perferendis eaque id commodi, maiores voluptatem aliquid neque perspiciatis .</p>
+    <router-link to="/projects" @click="scrollToTop()">Learn more</router-link>
   
->>>>>>> a380c3be438a4335150d5a960169ffff04add992
   </div>
   </div>
   </div>
