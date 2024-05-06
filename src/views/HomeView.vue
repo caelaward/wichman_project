@@ -164,7 +164,7 @@
   </div>
 </div>
   
-<div class="blank">
+<div class="blanks">
   <FooterComp/>
   
 </div>
@@ -260,6 +260,10 @@ a {
   width: 100%;
   min-height: 60vh;
   background-color:#333;
+}
+
+.blanks{
+  background-color: rgb(175,148,83);
 }
 
 
