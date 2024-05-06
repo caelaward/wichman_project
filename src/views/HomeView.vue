@@ -2,9 +2,11 @@
 
       <!-- <NavComp/> -->
     <div class="container-fluid">
-  <h1 >Wichman and CO</h1>
-  <p >Zlatibor is a mountain of exceptional beauty whose special geographical properties have made this mountain a real gem of western Serbia.</p>
-  <a href="#" >Learn more</a>
+      <div class="box" >
+        <h1 >Wichman and CO</h1>
+        <p >Zlatibor is a mountain of exceptional beauty whose special geographical properties have made this mountain a real gem of western Serbia.</p>
+        <a href="#" >Learn more</a>
+      </div>
 </div>
 
 <div class="blank">
@@ -257,4 +259,10 @@ h3 {
   gap: 1.6em;
 }
 
+.box{
+  background: rgb(26, 25, 25,0.45);
+  padding: 20px;
+  border-radius:25px;
+
+}
 </style>
