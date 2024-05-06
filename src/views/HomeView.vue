@@ -3,7 +3,7 @@
       <!-- <NavComp/> -->
     <div class="container-fluid">
       <div class="box" >
-        <h1 >Wichman and CO</h1>
+        <h1 >Wichman and CO Event Planning</h1>
         <p >Zlatibor is a mountain of exceptional beauty whose special geographical properties have made this mountain a real gem of western Serbia.</p>
         <a href="#" >Learn more</a>
       </div>
@@ -182,6 +182,7 @@ p {
   max-width: 52ch;
   line-height: 1.5;
   padding: 1em;
+  
 }
 
 a {
