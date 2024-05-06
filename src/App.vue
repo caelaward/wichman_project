@@ -1,14 +1,23 @@
 <template>
-  <nav>
+<NavComp/>
+  <!-- <nav>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link> |
     <router-link to="/service">Service</router-link> |
     <router-link to="/projects">Our Work</router-link> |
     <router-link to="/contact">Contact</router-link> 
-  </nav>
+  </nav> -->
   <router-view/>
 </template>
 
+<script>
+import NavComp from './components/NavComp.vue'
+export default {
+  components:{
+    NavComp
+  }
+}
+</script>
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
