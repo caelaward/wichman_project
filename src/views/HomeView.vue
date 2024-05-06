@@ -263,7 +263,9 @@ h3 {
 
 .box{
   background: rgb(26, 25, 25,0.45);
-  padding: 20px;
+  padding: 65px;
+  padding-left: 85px;
+  padding-right: 85px;
   border-radius:25px;
 
 }
