@@ -4,7 +4,7 @@
   <div class="container-fluid">
     <div class="box" >
       <h1 >Wichman and CO Event Planning</h1>
-      <p class="mid">Zlatibor is a mountain of exceptional beauty whose special geographical properties have made this mountain a real gem of western Serbia.</p>
+      <p class="mid">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet repellendus veniam voluptatibus ducimus eligendi dolore asperiores soluta ipsa voluptatum, laborum aspernatur rem. Nihil.</p>
       <a href="#" >Learn more</a>
     </div>
   </div>
@@ -149,15 +149,15 @@
   
   <div class="card">
     <h3>Services</h3>
-    <p  class="txt">Exploring underground through networks of tunnels and passageways, which can be natural or artificial.</p>
+    <p  class="txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, quidem! Possimus distinctio repellendus veniam adipisci totam nam dolorem, accusantium, est ex magnam voluptate, sequi nihil !</p>
     <a href="#">Learn more</a>
   </div>
   </div>
   <div class="item">
   
   <div class="card">
-    <h3>Parachuting</h3>
-    <p class="txt">Jumping from an aeroplane and falling through the air before opening your parachute.</p>
+    <h3>Our Work</h3>
+    <p class="txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus error, rem cupiditate animi dolorem architecto ut. Id esse maxime quia porro voluptatum accusamus, in optio odio saepe aperiam ipsam asperiores!</p>
     <a href="#">Learn more</a>
   </div>
   </div>

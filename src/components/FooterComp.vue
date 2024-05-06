@@ -16,17 +16,17 @@
                     <ul class="list-unstyled text-muted">
                         <li><a href="#">Home</a></li>
                         <li><a href="#">About</a></li>
-                        <li><a href="#">Get started</a></li>
-                        <li><a href="#">FAQ</a></li>
+                        <li><a href="#">Services</a></li>
+                        <li><a href="#">Gallery</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-2 col-md-6">
                     <h5 class="text-black  mb-3">Quick links</h5>
                     <ul class="list-unstyled text-muted">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Get started</a></li>
-                        <li><a href="#">FAQ</a></li>
+                        <li><a href="#">Intagram</a></li>
+                        <li><a href="#">Facebook</a></li>
+                        <li><a href="#">Email</a></li>
+                        <li><a href="#">Contact</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-6">
