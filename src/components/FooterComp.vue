@@ -48,12 +48,13 @@
 <style scoped>
 
 footer{
-    margin-top:7%;
+    margin-top:1%;
     background-color: rgb(175,148,83);
     
 }
 
 div{
+   
     background-color:  rgb(175,148,83);
 }
 

@@ -146,7 +146,7 @@ Slider controls
 </div>
 </div> -->
 <div class="item">
-<div class="img img-second"></div>
+<!-- <div class="img img-second"></div> -->
 <div class="card">
   <h3>Services</h3>
   <p  class="txt">Exploring underground through networks of tunnels and passageways, which can be natural or artificial.</p>
@@ -154,7 +154,7 @@ Slider controls
 </div>
 </div>
 <div class="item">
-<div class="img img-third"></div>
+<!-- <div class="img img-third"></div> -->
 <div class="card">
   <h3>Parachuting</h3>
   <p class="txt">Jumping from an aeroplane and falling through the air before opening your parachute.</p>
@@ -258,7 +258,7 @@ font-size: .875rem;
 .other {
 width: 100%;
 min-height: 60vh;
-background-color:#333;
+background-color:#414a4c;
 }
 
 .blanks{
@@ -287,7 +287,8 @@ margin-bottom: 2em;
 .item {
 display: flex;
 max-width: 320px;
-background-color: white;;
+background-color: white;
+
 flex-direction: column;
 align-items: center;
 border-radius: .5em;
@@ -565,4 +566,6 @@ width: 35px;
 height: 35px;
 }
 /* ------testimonial  close-------*/
+
+
 </style>

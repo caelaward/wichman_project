@@ -2,7 +2,7 @@
 
 
    <!-- ======= About Section ======= -->
-   <section id="about" class="about mt-4">
+   <section id="about" class="about mt-4 mb-2">
     
       <div class="container" data-aos="fade-up">
      

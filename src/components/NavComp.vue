@@ -69,8 +69,8 @@ export default {
 }
 
 #navDiv{
-  background-color:#d9d9d9;
-  
+  background-color:rgb(219, 193, 132);;
+
 
 }
 </style>
