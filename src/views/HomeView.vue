@@ -150,15 +150,16 @@
   <div class="card">
     <h3>Services</h3>
     <p  class="txt">Exploring underground through networks of tunnels and passageways, which can be natural or artificial.</p>
-    <a href="#">Learn more</a>
+    <router-link to="/service" @click="scrollToTop()">Learn more</router-link>
   </div>
   </div>
   <div class="item">
   
   <div class="card">
-    <h3>Parachuting</h3>
+    <h3>Our work</h3>
     <p class="txt">Jumping from an aeroplane and falling through the air before opening your parachute.</p>
-    <a href="#">Learn more</a>
+    <router-link to="/about" @click="scrollToTop()">Learn more</router-link>
+  
   </div>
   </div>
   </div>
@@ -181,6 +182,11 @@
   FooterComp,
   // NavComp
   
+  },
+  methods: {
+    scrollToTop() {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
   }
   }
   </script>
