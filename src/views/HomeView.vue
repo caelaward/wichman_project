@@ -93,7 +93,7 @@
 
 
 
-<div class="container second">
+<div class="container-fluid second">
   <!-- <div class="item">
     <div class="img img-first"></div>
     <div class="card">
@@ -203,9 +203,11 @@ a {
 }
 
 .second {
-  background-image:url(https://images.unsplash.com/photo-1514496959998-c01c40915c5f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80);
+  background-image:url(https://i.ibb.co/tPv85zH/frontImg.jpg);
   background-attachment: fixed;
-  height: 1200px;
+  /* height: 1200px; */
+   background-size: cover;
+  background-position: center;
 }
 
 h3 {
