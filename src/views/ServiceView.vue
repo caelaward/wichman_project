@@ -1,5 +1,5 @@
 <template>
-    <div >
+    <div>
         <h1>WEDDINGS</h1>
          <div class="container">
             <div class="row">
@@ -119,7 +119,7 @@ img{
     height: 150px;
     border-radius: 50%;
     margin-top: 40px;
-    margin-left: 100px;
+    margin-left: 2.5px;
 }
 .box4, .box5 {
    /* position: relative; */
@@ -147,6 +147,10 @@ img{
 h1{
     color: rgb(175,148,83) !important;
     letter-spacing: 0.45em !important;
+}
+p{
+    max-width: 52ch;
+    padding: 1em;
 }
 
 </style>
