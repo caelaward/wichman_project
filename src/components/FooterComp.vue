@@ -49,7 +49,12 @@
 
 footer{
     margin-top:7%;
-    background-color:#333
+    background-color: rgb(175,148,83);
+    
+}
+
+div{
+    background-color:  rgb(175,148,83);
 }
 
 .text-small {
