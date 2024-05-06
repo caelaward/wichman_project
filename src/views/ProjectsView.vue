@@ -705,7 +705,7 @@ $("[unique-script-id='w-w-dm-id'] .list").click(function() {
   transform: none;
 }
 
-.desktop_7 .squareImg.one {
+.desktop_7 .squareImg {
   padding-top: 10px;
   padding-right: 15px;
   padding-bottom: 15px;
@@ -716,49 +716,11 @@ $("[unique-script-id='w-w-dm-id'] .list").click(function() {
   margin-left: 0px;
 }
 
-.desktop_7 .squareImg.two {
-  padding-top: 10px;
-  padding-right: 15px;
-  padding-bottom: 15px;
-  padding-left: 10px;
-  margin-top: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  margin-left: 0px;
+.project:nth-child(-n+3) .squareImg {
+  width: 225px; /* Set your desired width */
+  height: 225px; /* Set your desired height */
 }
 
-.desktop_7 .squareImg.three {
-  padding-top: 10px;
-  padding-right: 15px;
-  padding-bottom: 15px;
-  padding-left: 10px;
-  margin-top: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  margin-left: 0px;
-}
-
-.desktop_7 .squareImg.four {
-  padding-top: 10px;
-  padding-right: 15px;
-  padding-bottom: 15px;
-  padding-left: 10px;
-  margin-top: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  margin-left: 0px;
-}
-
-.desktop_7 .squareImg.five {
-  padding-top: 10px;
-  padding-right: 15px;
-  padding-bottom: 15px;
-  padding-left: 10px;
-  margin-top: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  margin-left: 0px;
-}
 
 @media (max-width: 1024px) {
   .desktop_7 .Container {
@@ -988,21 +950,5 @@ $("[unique-script-id='w-w-dm-id'] .list").click(function() {
 /* Add similar rules for the rest of the images */
 
 }
-.project:nth-child(1) .squareImg {
-  width: 100%;
-  margin: 0 0 20px 0;
-}
-
-.project:nth-child(2) .squareImg {
-  height: 50%;
-  margin: 0 0 16px 0;
-}
-
-.project:nth-child(3) .squareImg {
-  width: 300px; /* Set your desired width */
-  height: auto; /* Maintain aspect ratio */
-}
-
-/* Add similar rules for the rest of the images */
 
 </style>
