@@ -109,22 +109,22 @@
       </p>
       <div class="responsive-container-block optionsContainer">
         <p class="text-blk list all active" data-filter="all">
-          Option
+          All
         </p>
         <p class="text-blk list" data-filter="one">
-          Option
+          Weddings
         </p>
         <p class="text-blk list" data-filter="two">
-          Option
+          Birthday
         </p>
         <p class="text-blk list" data-filter="three">
-          Option
+        Corporate Events
         </p>
         <p class="text-blk list" data-filter="four">
-          Option
+          intimate events
         </p>
-        <p class="text-blk list" data-filter="four">
-          Option
+        <p class="text-blk list" data-filter="five">
+          face paint
         </p>
       </div>
       <div class="responsive-container-block imageContainer">
@@ -265,6 +265,24 @@
             </button>
           </div>
         </div>
+        <!-- <div class="project">
+          <img class="squareImg five" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d78.png">
+          <div class="overlay">
+            <div class="overlay-inner">
+              <button class="close">
+                Close X
+              </button>
+              <div class="hdImgs">
+                <img alt="" class="againImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d78.png">
+              </div>
+            </div>
+          </div>
+          <div class="btn-box">
+            <button class="btn">
+              View
+            </button>
+          </div>
+        </div> -->
       </div>
     </div>
   </div>
