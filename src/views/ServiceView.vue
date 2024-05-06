@@ -6,19 +6,22 @@
                 <div class="col-lg-4">
                     <div class="box">
                        <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" id="img" alt="">
-                      <p>hi</p>
+                      <h1 class="mt-2">Title</h1>
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi voluptas quae perferendis sunt assumenda incidunt modi quam libero adipisci sequi. Iusto quo sequi aut, laudantium modi possimus ullam reiciendis obcaecati.</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="box2">
                        <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" id="img" alt="">
-                      <p>hi</p>
+                      <h1 class="mt-2">Title</h1>
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi voluptas quae perferendis sunt assumenda incidunt modi quam libero adipisci sequi. Iusto quo sequi aut, laudantium modi possimus ullam reiciendis obcaecati.</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="box3">
                        <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" id="img" alt="">
-                      <p>hi</p>
+                      <h1 class="mt-2">Title</h1>
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi voluptas quae perferendis sunt assumenda incidunt modi quam libero adipisci sequi. Iusto quo sequi aut, laudantium modi possimus ullam reiciendis obcaecati.</p>
                     </div>
                 </div>
             </div>
@@ -32,13 +35,15 @@
                 <div class="col-lg-6 d-flex justify-content-between">
                     <div class="box4">
                        <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" alt="">
-                      <p>hi</p>
+                      <h1 class="mt-2">Title</h1>
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi voluptas quae perferendis sunt assumenda incidunt modi quam libero adipisci sequi. Iusto quo sequi aut, laudantium modi possimus ullam reiciendis obcaecati.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 d-flex justify-content-between">
                     <div class="box5">
                        <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" alt="">
-                      <p>hi</p>
+                      <h1 class="mt-2">Title</h1>
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi voluptas quae perferendis sunt assumenda incidunt modi quam libero adipisci sequi. Iusto quo sequi aut, laudantium modi possimus ullam reiciendis obcaecati.</p>
                     </div>
                 </div>
             </div>
@@ -50,13 +55,15 @@
                 <div class="col-lg-6 d-flex justify-content-between">
                     <div class="box4">
                        <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" alt="">
-                      <p>hi</p>
+                      <h1 class="mt-2">Title</h1>
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi voluptas quae perferendis sunt assumenda incidunt modi quam libero adipisci sequi. Iusto quo sequi aut, laudantium modi possimus ullam reiciendis obcaecati.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 d-flex justify-content-between">
                     <div class="box5">
                        <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" alt="">
-                      <p>hi</p>
+                      <h1 class="mt-2">Title</h1>
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi voluptas quae perferendis sunt assumenda incidunt modi quam libero adipisci sequi. Iusto quo sequi aut, laudantium modi possimus ullam reiciendis obcaecati.</p>
                     </div>
                 </div>
             </div>
@@ -65,13 +72,15 @@
          <h1>CATERING</h1>
          <div class="box6">
             <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" alt="">
-            <p>hi</p>
+            <h1 class="mt-2">Title</h1>
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi voluptas quae perferendis sunt assumenda incidunt modi quam libero adipisci sequi. Iusto quo sequi aut, laudantium modi possimus ullam reiciendis obcaecati.</p>
          </div>
          <br>
          <h1>STAFF</h1>
          <div class="box7">
             <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" alt="">
-            <p>hi</p>
+            <h1 class="mt-2">Title</h1>
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi voluptas quae perferendis sunt assumenda incidunt modi quam libero adipisci sequi. Iusto quo sequi aut, laudantium modi possimus ullam reiciendis obcaecati.</p>
          </div>
     </div>
     <FooterComp/>
