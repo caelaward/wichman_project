@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div >
         <h1>WEDDINGS</h1>
          <div class="container">
             <div class="row">

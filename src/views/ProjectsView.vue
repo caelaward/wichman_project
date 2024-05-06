@@ -99,7 +99,7 @@
   </div>
 </div> -->
 
-<div class="desktop_7" unique-script-id="w-w-dm-id">
+<div class="desktop_7 " unique-script-id="w-w-dm-id">
   <div class="responsive-container-block bigContainer">
     <div class="responsive-container-block Container">
       <p class="text-blk headingText">
@@ -460,7 +460,8 @@ $("[unique-script-id='w-w-dm-id'] .list").click(function() {
 .desktop_7 .text-blk.headingText {
   font-size: 36px;
   line-height: 50px;
-  font-weight: 900;
+  
+  color:rgb(175,148,83)
 }
 
 .desktop_7 .text-blk.active {
@@ -585,7 +586,7 @@ $("[unique-script-id='w-w-dm-id'] .list").click(function() {
   background-attachment: initial;
   background-origin: initial;
   background-clip: initial;
-  background-color: white;
+  background-color: beige;
   position: relative;
   display: flex;
   flex-wrap: wrap;
@@ -864,6 +865,7 @@ $("[unique-script-id='w-w-dm-id'] .list").click(function() {
 
   .desktop_7 .text-blk.headingText {
     text-align: center;
+    
   }
 
   .desktop_7 .text-blk.list {

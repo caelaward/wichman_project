@@ -2,7 +2,7 @@
 
 
    <!-- ======= About Section ======= -->
-   <section id="about" class="about">
+   <section id="about" class="about mt-4">
     
       <div class="container" data-aos="fade-up">
      
@@ -200,6 +200,8 @@ export default {
   }
 }
 
-
+h2{
+   color:rgb(175,148,83)
+}
 
 </style>
