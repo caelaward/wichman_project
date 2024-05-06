@@ -133,11 +133,11 @@
                 Close X
               </button>
               <div class="hdImgs">
-                <img alt="" class="againImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d71.png">
+                <img alt="" class="againImg" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
               </div>
             </div>
           </div>
-          <img class="squareImg one" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d71.png">
+          <img class="squareImg one" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
           <div class="btn-box">
             <button class="btn">
               View
@@ -145,14 +145,14 @@
           </div>
         </div>
         <div class="project">
-          <img class="squareImg two" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d72.png">
+          <img class="squareImg two" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
           <div class="overlay">
             <div class="overlay-inner">
               <button class="close">
                 Close X
               </button>
               <div class="hdImgs">
-                <img class="squareImg two" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d72.png">
+                <img class="squareImg two" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
               </div>
             </div>
           </div>
@@ -163,14 +163,14 @@
           </div>
         </div>
         <div class="project">
-          <img class="squareImg three" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d73.png">
+          <img class="squareImg three" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
           <div class="overlay">
             <div class="overlay-inner">
               <button class="close">
                 Close X
               </button>
               <div class="hdImgs">
-                <img alt="" class="againImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d73.png">
+                <img alt="" class="againImg" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
               </div>
             </div>
           </div>
@@ -181,14 +181,14 @@
           </div>
         </div>
         <div class="project">
-          <img class="squareImg four" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d74.png">
+          <img class="squareImg four" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
           <div class="overlay">
             <div class="overlay-inner">
               <button class="close">
                 Close X
               </button>
               <div class="hdImgs">
-                <img alt="" class="againImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d74.png">
+                <img alt="" class="againImg" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
               </div>
             </div>
           </div>
@@ -199,9 +199,9 @@
           </div>
         </div>
         <div class="project">
-          <img class="squareImg five" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d75.png">
+          <img class="squareImg five" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
           <div class="hdImg">
-            <img alt="" class="againImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d75.png">
+            <img alt="" class="againImg" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
           </div>
           <div class="btn-box">
             <button class="btn">
@@ -210,14 +210,14 @@
           </div>
         </div>
         <div class="project">
-          <img class="squareImg one" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d76.png">
+          <img class="squareImg one" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
           <div class="overlay">
             <div class="overlay-inner">
               <button class="close">
                 Close X
               </button>
               <div class="hdImgs">
-                <img alt="" class="againImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d76.png">
+                <img alt="" class="againImg" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
               </div>
             </div>
           </div>
@@ -228,14 +228,14 @@
           </div>
         </div>
         <div class="project">
-          <img class="squareImg two" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d77.png">
+          <img class="squareImg two" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
           <div class="overlay">
             <div class="overlay-inner">
               <button class="close">
                 Close X
               </button>
               <div class="hdImgs">
-                <img alt="" class="againImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d77.png">
+                <img alt="" class="againImg" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
               </div>
             </div>
           </div>
@@ -246,14 +246,14 @@
           </div>
         </div>
         <div class="project">
-          <img class="squareImg three" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d78.png">
+          <img class="squareImg three" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
           <div class="overlay">
             <div class="overlay-inner">
               <button class="close">
                 Close X
               </button>
               <div class="hdImgs">
-                <img alt="" class="againImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d78.png">
+                <img alt="" class="againImg" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
               </div>
             </div>
           </div>
@@ -264,14 +264,14 @@
           </div>
         </div>
         <!-- <div class="project">
-          <img class="squareImg five" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d78.png">
+          <img class="squareImg five" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
           <div class="overlay">
             <div class="overlay-inner">
               <button class="close">
                 Close X
               </button>
               <div class="hdImgs">
-                <img alt="" class="againImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/d78.png">
+                <img alt="" class="againImg" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
               </div>
             </div>
           </div>
@@ -451,7 +451,7 @@ $("[unique-script-id='w-w-dm-id'] .list").click(function() {
   padding-right: 0px;
   padding-bottom: 10px;
   padding-left: 0px;
-  margin-top: 80px;
+  /* margin-top: 80px; */
   margin-right: auto;
   margin-bottom: 50px;
   margin-left: auto;
