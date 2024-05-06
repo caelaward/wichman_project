@@ -1,11 +1,9 @@
 <template>
-    <div>
-        <h1>Work</h1>
-
-    </div>
+   
 
     <!-- ======= Venue Section ======= -->
-    <section id="venue">
+  
+    <!--   <section id="venue">
 
 <div class="container-fluid" data-aos="fade-up">
 
@@ -29,7 +27,7 @@
     </div>
   </div>
 
-</div>
+</div> -->
 
 <!-- <div class="container venue-gallery-container" data-aos="fade-up" data-aos-delay="100">
   <div class="row">
@@ -287,12 +285,20 @@
     </div>
   </div>
 </div>
-</section><!-- End Venue Section -->
+<!-- </section>End Venue Section -->
+<FooterComp/>
 </template>
 
 <script>
 
+import FooterComp from '../components/FooterComp.vue'
+
 export default {
+    components: {
+    FooterComp,
+    // NavComp
+   
+  },
   methods: {
     venue(){
       $(document).ready(function() {

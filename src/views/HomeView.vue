@@ -1,10 +1,10 @@
 <template>
 
       <!-- <NavComp/> -->
-    <div class="container">
-  <h1>Wichman and CO</h1>
-  <p>Zlatibor is a mountain of exceptional beauty whose special geographical properties have made this mountain a real gem of western Serbia.</p>
-  <a href="#">Learn more</a>
+    <div class="container-fluid">
+  <h1 >Wichman and CO</h1>
+  <p >Zlatibor is a mountain of exceptional beauty whose special geographical properties have made this mountain a real gem of western Serbia.</p>
+  <a href="#" >Learn more</a>
 </div>
 
 <div class="blank">
@@ -144,7 +144,7 @@ export default {
 
 <style scoped>
 
-  @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@400;700&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@400;700&display=swap');
 
 :root{
 --color: #333; 
@@ -154,16 +154,16 @@ body {
   font-family: 'Red Hat Text', sans-serif;
 }
 
-.container {
+.container-fluid {
   text-align: center;
-  color: #333;
+  color: white;
   width: 100%;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-image: url(https://images.unsplash.com/photo-1519120944692-1a8d8cfc107f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80);
+  background-image: url(https://i.ibb.co/tPv85zH/frontImg.jpg);
   background-size: cover;
   background-position: center;
   

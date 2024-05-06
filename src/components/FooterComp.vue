@@ -7,7 +7,7 @@
         <div class="container py-4">
             <div class="row gy-4 gx-5">
                 <div class="col-lg-4 col-md-6">
-                    <h5 class="h1 text-black">FB.</h5>
+                    <h5 class="h1 text-black">W.C</h5>
                     <p class="small text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
                     <p class="small text-white mb-0">&copy; Copyrights. All rights reserved. <a class="text-primary" href="#">Bootstrapious.com</a></p>
                 </div>
@@ -30,7 +30,7 @@
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <h5 class="text-black mb-3">Newsletter</h5>
+                    <h5 class="text-black mb-3">Chat box</h5>
                     <p class="small text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
                     <form action="#">
                         <div class="input-group mb-3">
