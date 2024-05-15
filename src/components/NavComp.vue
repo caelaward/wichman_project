@@ -10,10 +10,6 @@
             <router-link :to="{ name: 'home' }" class="nav-link " :class="{ 'active': currentRoute === 'home' }" @click="collapseNavbar" exact>Home</router-link>
             <router-link :to="{ name: 'about' }" class="nav-link " :class="{ 'active': currentRoute === 'about' }" @click="collapseNavbar">About</router-link>
             <router-link :to="{ name: 'service' }" class="nav-link " :class="{ 'active': currentRoute === 'service' }" @click="collapseNavbar">Services</router-link>
-            <router-link :to="{ name: 'projects' }" class="nav-link " :class="{ 'active': currentRoute === 'projects' }" @click="collapseNavbar">Our Work</router-link>
-            <router-link :to="{ name: 'contact' }" class="nav-link " :class="{ 'active': currentRoute === 'contact' }" @click="collapseNavbar">Contact</router-link>
-
-            <!-- New dropdown item for PDF download -->
             <div class="dropdown">
               <button class="dropbtn nav-link">Catalogue</button>
               <div class="dropdown-content">
@@ -21,6 +17,11 @@
                 <a @click="downloadPDF('/path/to/your/pdf.pdf')">PDF File 2</a>
               </div>
             </div>
+            <router-link :to="{ name: 'projects' }" class="nav-link " :class="{ 'active': currentRoute === 'projects' }" @click="collapseNavbar">Our Work</router-link>
+            <router-link :to="{ name: 'contact' }" class="nav-link " :class="{ 'active': currentRoute === 'contact' }" @click="collapseNavbar">Contact</router-link>
+
+         
+         
           </div>
         </div>
       </div>
