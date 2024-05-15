@@ -3,7 +3,7 @@
     <!-- <NavComp/> -->
   <div class="container-fluid">
     <div class="box" >
-      <h1 >Wichman and CO Event Planning</h1>
+      <h1 >Wichman and Co Event Planning</h1>
       <p class="mid">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet repellendus veniam voluptatibus ducimus eligendi dolore asperiores soluta ipsa voluptatum, laborum aspernatur rem. Nihil.</p>
        <router-link to="/about" @click="scrollToTop()">Learn more</router-link>
     </div>
