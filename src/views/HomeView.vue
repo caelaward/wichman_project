@@ -102,15 +102,13 @@
               <div class="carousel-item active">
                   <div class="testimonial4_slide">
                       <!-- <img src="https://i.ibb.co/8x9xK4H/team.jpg" class="img-circle img-responsive" /> -->
-                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                      <h4>Client 1</h4>
+                      <p>WOW is all I can say - from the very first meeting she completely got my vision.</p>
                   </div>
               </div>
               <div class="carousel-item">
                   <div class="testimonial4_slide">
                       <!-- <img src="https://i.ibb.co/8x9xK4H/team.jpg" class="img-circle img-responsive" /> -->
-                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                      <h4>Client 2</h4>
+                      <p>...phenomenal.  I have to admit that it surpassed my expectations!</p>
                   </div>
               </div>
               <div class="carousel-item">
