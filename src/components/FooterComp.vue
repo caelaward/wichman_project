@@ -21,12 +21,12 @@
                     </ul>
                 </div>
                 <div class="col-lg-2 col-md-6">
-                    <h5 class="text-black  mb-3">Quick links</h5>
+                    <h5 class="text-black  mb-3">Get in touch</h5>
                     <ul class="list-unstyled text-muted">
-                        <li><a href="#">Intagram</a></li>
-                        <li><a href="#">Facebook</a></li>
-                        <li><a href="#">Email</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                        <li><a href="#"><i class="fa-brands fa-square-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa-solid fa-envelope-circle-check"></i></a></li>
+                        <li><a href="#"><i class="fa-solid fa-square-phone"></i></a></li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-6">

@@ -21,8 +21,7 @@
           <div class="col-lg-4 d-flex align-items-end" data-aos="fade-up" data-aos-delay="300">
             <div class="content ps-0 ps-lg-5">
               <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
+                A family based company, proudly and completely owned by woman of colour, we opened our doors in 2009. We strive to offer a professional service to all our clients and pride ourselves in the care and precision that we take when developing any type of event, be it as small as a children’s birthday or as big and detailed as a wedding or corporate activation. 
               </p>
               <ul>
                 <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
@@ -40,7 +39,82 @@
         </div>
 
       </div>
+
+      <div class="container" data-aos="fade-up">
+     
+     <!-- <div class="section-header">
+       <h2>About Us</h2>
+       <p>Learn More <span>About Us</span></p>
+     </div>
+
+     <div class="row gy-4">
+       
+       <div class="col-lg-4 d-flex align-items-end" data-aos="fade-up" data-aos-delay="300">
+         <div class="content ps-0 ps-lg-5">
+           <p class="fst-italic">
+             A family based company, proudly and completely owned by woman of colour, we opened our doors in 2009. We strive to offer a professional service to all our clients and pride ourselves in the care and precision that we take when developing any type of event, be it as small as a children’s birthday or as big and detailed as a wedding or corporate activation. 
+           </p>
+           <ul>
+             <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+             <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+             <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+           </ul>
+           <p>
+             Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+             velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+           </p>
+
+           
+         </div>
+       </div>
+
+       <div class="col-lg-7 position-relative about-img" style="background-image: url(https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg) ;" data-aos="fade-up" data-aos-delay="150">
+           <div class="call-us position-absolute">
+             <h4>Get in touch</h4>
+             <p>+1 5589 55488 55</p>
+           </div>
+         </div>
+  
+     </div>
+     </div> -->
+     </div> 
     </section><!-- End About Section -->
+
+     <!-- Services-->
+     <section class="content-section bg-primary text-white text-center" id="services">
+            <div class="container px-4 px-lg-5">
+                <div class="content-section-heading">
+                    <h3 class="text-secondary mb-0">Services</h3>
+                    <h2 class="mb-5">What We Offer</h2>
+                </div>
+                <div class="row gx-4 gx-lg-5">
+                    <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-screen-smartphone"></i></span>
+                        <h4><strong>Responsive</strong></h4>
+                        <p class="text-faded mb-0">Looks great on any screen size!</p>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-pencil"></i></span>
+                        <h4><strong>Redesigned</strong></h4>
+                        <p class="text-faded mb-0">Freshly redesigned for Bootstrap 5.</p>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
+                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-like"></i></span>
+                        <h4><strong>Favorited</strong></h4>
+                        <p class="text-faded mb-0">
+                            Millions of users
+                            <i class="fas fa-heart"></i>
+                            Start Bootstrap!
+                        </p>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-mustache"></i></span>
+                        <h4><strong>Question</strong></h4>
+                        <p class="text-faded mb-0">I mustache you a question...</p>
+                    </div>
+                </div>
+            </div>
+        </section>
 
     
     <FooterComp/>
