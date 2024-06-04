@@ -13,8 +13,7 @@
             <div class="dropdown">
               <button class="dropbtn nav-link">Catalogue</button>
               <div class="dropdown-content">
-                <a @click="downloadPDF('/path/to/your/pdf.pdf')">PDF File</a>
-                <a @click="downloadPDF('/path/to/your/pdf.pdf')">PDF File 2</a>
+                <a @click="downloadPDF('https://drive.google.com/file/d/1Y507psm-NUeM76ya5oSqxAobSnQBq1aP/view?usp=sharing')" target="_blank" class="pdf">Furniture Catalogue</a>
               </div>
             </div>
             <router-link :to="{ name: 'projects' }" class="nav-link " :class="{ 'active': currentRoute === 'projects' }" @click="collapseNavbar">Our Work</router-link>
@@ -54,21 +53,38 @@ export default {
         }
       }
     },
-    downloadPDF(pdfUrl) {
-      // Create a link element
-      const link = document.createElement('a');
-      link.href = pdfUrl;
-      // Set the download attribute to force download
-      link.setAttribute('download', 'filename.pdf');
-      // Append to the document body
-      document.body.appendChild(link);
-      // Trigger the click event to start download
-      link.click();
-      // Cleanup
-      document.body.removeChild(link);
+     downloadPDF(pdfUrl) {
+  // Create a link element
+  const link = document.createElement('a');
+  let modifiedUrl = pdfUrl;
+
+  // Check if the URL is from Google Drive
+  if (pdfUrl.startsWith('https://drive.google.com')) {
+    // Convert Google Drive link to a direct download link
+    const fileIdMatch = pdfUrl.match(/[-\w]{25,}/);
+    if (fileIdMatch) {
+      const fileId = fileIdMatch[0];
+      modifiedUrl = `https://drive.google.com/uc?export=download&id=${fileId}`;
     }
   }
-};
+
+  link.href = modifiedUrl;
+  link.setAttribute('download', 'filename.pdf');
+  
+  // Append to the document body
+  document.body.appendChild(link);
+  
+  // Trigger the click event to start download
+  link.click();
+  
+  // Cleanup
+  document.body.removeChild(link);
+}
+
+
+  }
+
+}
 </script>
 
 <style>
@@ -123,5 +139,10 @@ export default {
 
 .dropdown-content a:hover {
   background-color: #f1f1f1;
+}
+
+.pdf {
+  cursor: pointer;
+  font-size: 12px;
 }
 </style>
