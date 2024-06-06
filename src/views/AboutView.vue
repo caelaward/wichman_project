@@ -48,23 +48,25 @@
   <div class="container-fluid" id="aboutImg"><h1 class="mt-5 ">About us</h1></div>
  <div class="container-fluid  mt-2" id="aboutPage">
    
-    <div class="row mt-5">
+    <!-- <div class="row mt-5">
     <div class="col" >
     <p>At BloubergLux, we're dedicated to helping you find your perfect home sweet home. Whether you're a first-time buyer, seasoned investor, or looking to sell your current property, we're here to guide you through every step of the journey.</p>
     </div>
-    </div>
+    </div> -->
     <div class="row mt-5" id="Middle_about">
-      <div class="col">
+      <div class=" col">
         <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
       </div>
-    <div class="col" id="mission">
+    <div class="col mt-5" id="mission">
      <p> A family based company, proudly and completely owned by woman of colour, we opened our doors in 2009. We strive to offer a professional service to all our clients and pride ourselves in the care and precision that we take when developing any type of event, be it as small as a children’s birthday or as big and detailed as a wedding or corporate activation. </p>
     </div>
     </div> 
 
     <div class="row mt-5" id="Middle_about">
-    <div class="col" id="mission">
-     <p> A family based company, proudly and completely owned by woman of colour, we opened our doors in 2009. We strive to offer a professional service to all our clients and pride ourselves in the care and precision that we take when developing any type of event, be it as small as a children’s birthday or as big and detailed as a wedding or corporate activation. </p>
+    <div class="col mt-5" id="mission">
+      <h3> All inclusive service</h3>
+     <p>
+Our all-inclusive service assures our client that everything in terms of décor, staffing, event co-ordination and catering is taken care of. We are passionate about what we do and are always seeking to improve our services, so that we can offer the most up to date solutions for any kind of event. </p>
     </div>
     <div class="col">
         <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
@@ -76,7 +78,9 @@
         <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
       </div>
     <div class="col" id="mission">
-     <p> A family based company, proudly and completely owned by woman of colour, we opened our doors in 2009. We strive to offer a professional service to all our clients and pride ourselves in the care and precision that we take when developing any type of event, be it as small as a children’s birthday or as big and detailed as a wedding or corporate activation. </p>
+      <h3>Large scale activations to private and intimate gatherings</h3>
+     <p> 
+We provide event decor for events ranging from large-scale activations to private and intimate gatherings. The decor includes table set styling, floral arrangements, wall and ceiling decor and lighting. We provide our clients with staffing services such as event supervision and co-ordination, waiter and bartending services, setup and breakdown staff as well as promotion or talent required for a specific event or activation. Beyond decor and staff, we also offer food and dessert catering separate or part of an event package. </p>
     </div>
     </div> 
  </div>
