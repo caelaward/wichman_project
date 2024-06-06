@@ -3,6 +3,7 @@
     <div class="row">
         <div class="col-lg-6">
            <div class="txt">
+            <img src="../assets/flowers.jpg" alt="" class="txt">
             <h1>
                 Contact us to turn your dream into a reality.
             </h1>
@@ -46,7 +47,7 @@
             </div>
         </div>
         <div class="col-lg-6">
-            <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" alt="">
+            <img src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg" alt="" class="img">
         </div>
     </div>
 </div>
@@ -56,6 +57,7 @@
 
 <script>
 import FooterComp from '../components/FooterComp.vue'
+
 export default {
     components: {
     FooterComp,
@@ -69,32 +71,53 @@ export default {
 
 <style scoped>
 /* Additional styling */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 .container {
     padding-top: 50px;
     padding-bottom: 50px;
 }
 
 .txt h1 {
-    color: white;
-    font-size: 30px;
+    color: #fff;
+    font-size: 28px;
     line-height: 40px;
     text-align: center;
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 50%; /* Adjust as needed */
+    left: 50%; /* Adjust as needed */
+    transform: translate(-50%, -50%);
+    z-index: 1; /* Ensure the text is above the image */
+    background: rgb(26, 25, 25,0.48);
+    border-radius: 10px;
+    padding: auto;
+}
+
+.txt img {
+    position: relative; /* Ensure the image is positioned relative to its container */
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
 }
 
 .txt{
     width: 350px;
     height: 500px;
-    background-color:  rgb(175,148,83);
-   display: flex;
-   justify-content: center;
-   align-items: center;
+    position: relative; /* Ensure positioning context for the absolutely positioned text */
+    /* background-color:  rgb(175,148,83); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
 
 .form h2 {
     color:  rgb(155,128,63);
-    font-size: 24px;
+    font-size: 21px;
     text-align: center;
     margin-bottom: 20px;
+    font-family: 'Poppins', sans-serif;
 }
 
 .form-control {
@@ -118,8 +141,10 @@ export default {
     background-color: rgb(175,148,83);
     color: white;
     padding: 10px 20px;
-    font-size: 18px;
+    font-size: 15px;
     cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+
    
 }
 
@@ -128,22 +153,26 @@ export default {
 }
 
 .text-dark {
-    color: #333;
+    color: #000;
     font-size: 24px;
     margin-bottom: 15px;
+    font-family: 'Poppins', sans-serif;
+
 }
 
-img {
+.img {
     max-width: 100%;
     height: auto;
     margin-left: 250px;
 }
 .text-section {
     padding-right: 20px;
+    
 }
 
 .text-section p {
     margin-bottom: 10px;
-}
+    font-family: 'Poppins', sans-serif;
+  }
 
 </style>
