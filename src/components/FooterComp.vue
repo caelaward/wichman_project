@@ -16,10 +16,10 @@
                 <div class="col-lg-2 col-md-6">
                     <h5 class="text-black mb-3">Quick links</h5>
                     <ul class="list-unstyled text-muted">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Services</a></li>
-                        <li><a href="#">Gallery</a></li>
+                        <li><router-link to="/about" @click="scrollToTop()">About</router-link></li>
+                        <li><router-link to="/service" @click="scrollToTop()">Service</router-link></li>
+                        <li><router-link to="/projects" @click="scrollToTop()">Our work</router-link></li>
+                        <li><router-link to="/contact" @click="scrollToTop()">Conact</router-link></li>
                     </ul>
                 </div>
                 <div class="col-lg-2 col-md-6">
@@ -46,6 +46,16 @@
     </footer>
 </div>
 </template>
+
+<script>
+export default {
+    methods: {
+    scrollToTop() {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  }
+}
+</script>
 
 <style scoped>
 
