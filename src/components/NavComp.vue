@@ -11,9 +11,10 @@
             <router-link :to="{ name: 'about' }" class="nav-link " :class="{ 'active': currentRoute === 'about' }" @click="collapseNavbar">About</router-link>
             <router-link :to="{ name: 'service' }" class="nav-link " :class="{ 'active': currentRoute === 'service' }" @click="collapseNavbar">Services</router-link>
             <div class="dropdown">
-              <button class="dropbtn nav-link">Catalogue</button>
+              <button class="dropbtn nav-link a-link">Catalogue</button>
               <div class="dropdown-content">
                 <a @click="downloadPDF('https://drive.google.com/file/d/1Y507psm-NUeM76ya5oSqxAobSnQBq1aP/view?usp=sharing')" target="_blank" class="pdf">Furniture Catalogue</a>
+                <a @click="downloadPDF('https://drive.google.com/file/d/1oZtB90WrK1554Q3DubP5FiVCRJbG0vZk/view?usp=sharing')" target="_blank" class="pdf">Costume Catalogue</a>
               </div>
             </div>
             <router-link :to="{ name: 'projects' }" class="nav-link " :class="{ 'active': currentRoute === 'projects' }" @click="collapseNavbar">Our Work</router-link>
@@ -145,4 +146,35 @@ export default {
   cursor: pointer;
   font-size: 12px;
 }
+
+
+@media (min-width: 800px) {
+  /* Styles for screens larger than 800px */
+ .a-link {
+    margin-left: 338px; /* Initial margin-left for larger screens */
+  }
+}
+
+@media (max-width: 768px) {
+  /* Styles for screens smaller than 768px */
+ .a-link {
+    margin-left: 322px; /* Adjust margin-left for extra small devices */
+  }
+}
+
+@media (max-width: 576px) {
+  /* Styles for screens smaller than 576px */
+ .a-link {
+    margin-left: 88px; /* Adjust margin-left for very small devices */
+  }
+}
+
+@media (max-width: 300px) {
+  /* Styles for screens smaller than 300px */
+ .a-link {
+    margin-left: 44px; /* Adjust margin-left for extremely small devices */
+  }
+}
+
+
 </style>
