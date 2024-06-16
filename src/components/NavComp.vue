@@ -148,7 +148,7 @@ export default {
 }
 
 
-@media (min-width: 800px) {
+@media (max-width: 800px) {
   /* Styles for screens larger than 800px */
  .a-link {
     margin-left: 338px; /* Initial margin-left for larger screens */
