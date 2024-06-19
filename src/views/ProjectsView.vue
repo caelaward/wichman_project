@@ -110,19 +110,19 @@
           All
         </p>
         <p class="text-blk list" data-filter="one">
-          Weddings
+          Corporate
         </p>
         <p class="text-blk list" data-filter="two">
-          Birthday
+          Weddings
         </p>
         <p class="text-blk list" data-filter="three">
-        Corporate Events
+        Celebrations
         </p>
         <p class="text-blk list" data-filter="four">
-          intimate events
+          Custom Designs
         </p>
         <p class="text-blk list" data-filter="five">
-          face paint
+          Entertainment
         </p>
       </div>
       <div class="responsive-container-block imageContainer">
@@ -145,14 +145,14 @@
           </div>
         </div>
         <div class="project">
-          <img class="squareImg two" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
+          <img class="squareImg two" src="https://cdn-images.imagevenue.com/59/b6/d0/ME18J5DV_o.JPG">
           <div class="overlay">
             <div class="overlay-inner">
               <button class="close">
                 Close X
               </button>
               <div class="hdImgs">
-                <img class="squareImg two" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
+                <img class="squareImg two" src="https://cdn-images.imagevenue.com/59/b6/d0/ME18J5DV_o.JPG">
               </div>
             </div>
           </div>
@@ -228,14 +228,14 @@
           </div>
         </div>
         <div class="project">
-          <img class="squareImg two" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
+          <img class="squareImg two" src="https://cdn-images.imagevenue.com/73/cd/04/ME18J5F5_o.JPG">
           <div class="overlay">
             <div class="overlay-inner">
               <button class="close">
                 Close X
               </button>
               <div class="hdImgs">
-                <img alt="" class="againImg" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
+                <img alt="" class="againImg img-fluid" src="https://cdn-images.imagevenue.com/73/cd/04/ME18J5F5_o.JPG">
               </div>
             </div>
           </div>
@@ -254,6 +254,222 @@
               </button>
               <div class="hdImgs">
                 <img alt="" class="againImg" src="https://cdn-thumbs.imagevenue.com/da/ce/7a/ME185QRK_b.jpg">
+              </div>
+            </div>
+          </div>
+          <div class="btn-box">
+            <button class="btn">
+              View
+            </button>
+          </div>
+        </div>
+        <div class="project">
+          <img class="squareImg two" src="https://cdn-images.imagevenue.com/89/3d/29/ME18J5G7_o.JPG">
+          <div class="overlay">
+            <div class="overlay-inner">
+              <button class="close">
+                Close X
+              </button>
+              <div class="hdImgs">
+                <img alt="" class="againImg" src="https://cdn-images.imagevenue.com/89/3d/29/ME18J5G7_o.JPG">
+              </div>
+            </div>
+          </div>
+          <div class="btn-box">
+            <button class="btn">
+              View
+            </button>
+          </div>
+        </div>
+        <div class="project">
+          <img class="squareImg two" src="https://cdn-images.imagevenue.com/33/2d/d3/ME18J5NY_o.JPG">
+          <div class="overlay">
+            <div class="overlay-inner">
+              <button class="close">
+                Close X
+              </button>
+              <div class="hdImgs">
+                <img alt="" class="againImg" src="https://cdn-images.imagevenue.com/33/2d/d3/ME18J5NY_o.JPG">
+              </div>
+            </div>
+          </div>
+          <div class="btn-box">
+            <button class="btn">
+              View
+            </button>
+          </div>
+        </div>
+        <div class="project">
+          <img class="squareImg two" src="https://cdn-images.imagevenue.com/bf/93/c0/ME18J5V9_o.JPG">
+          <div class="overlay">
+            <div class="overlay-inner">
+              <button class="close">
+                Close X
+              </button>
+              <div class="hdImgs">
+                <img alt="" class="againImg" src="https://cdn-images.imagevenue.com/bf/93/c0/ME18J5V9_o.JPG">
+              </div>
+            </div>
+          </div>
+          <div class="btn-box">
+            <button class="btn">
+              View
+            </button>
+          </div>
+        </div>
+        <div class="project">
+          <img class="squareImg two" src="https://cdn-images.imagevenue.com/99/a6/a9/ME18J68S_o.JPG">
+          <div class="overlay">
+            <div class="overlay-inner">
+              <button class="close">
+                Close X
+              </button>
+              <div class="hdImgs">
+                <img alt="" class="againImg" src="https://cdn-images.imagevenue.com/99/a6/a9/ME18J68S_o.JPG">
+              </div>
+            </div>
+          </div>
+          <div class="btn-box">
+            <button class="btn">
+              View
+            </button>
+          </div>
+        </div>
+        <div class="project">
+          <img class="squareImg two" src="https://unity-jnr.github.io/Images/Wichman Wedel Wedding-5104.JPG">
+          <div class="overlay">
+            <div class="overlay-inner">
+              <button class="close">
+                Close X
+              </button>
+              <div class="hdImgs">
+                <img alt="" class="againImg" src="https://unity-jnr.github.io/Images/Wichman Wedel Wedding-5104.JPG">
+              </div>
+            </div>
+          </div>
+          <div class="btn-box">
+            <button class="btn">
+              View
+            </button>
+          </div>
+        </div>
+        <div class="project">
+          <img class="squareImg two" src="https://unity-jnr.github.io/Images/Wichman Wedel Wedding-5040.JPG">
+          <div class="overlay">
+            <div class="overlay-inner">
+              <button class="close">
+                Close X
+              </button>
+              <div class="hdImgs">
+                <img alt="" class="againImg" src="https://unity-jnr.github.io/Images/Wichman Wedel Wedding-5040.JPG">
+              </div>
+            </div>
+          </div>
+          <div class="btn-box">
+            <button class="btn">
+              View
+            </button>
+          </div>
+        </div>
+        <div class="project">
+          <img class="squareImg two" src="https://unity-jnr.github.io/Images/Screenshot_20200407_135413.jpg">
+          <div class="overlay">
+            <div class="overlay-inner">
+              <button class="close">
+                Close X
+              </button>
+              <div class="hdImgs">
+                <img alt="" class="againImg" src="https://unity-jnr.github.io/Images/Screenshot_20200407_135413.jpg">
+              </div>
+            </div>
+          </div>
+          <div class="btn-box">
+            <button class="btn">
+              View
+            </button>
+          </div>
+        </div>
+        <div class="project">
+          <img class="squareImg two" src="https://unity-jnr.github.io/Images/Screenshot_20200407_135342.jpg">
+          <div class="overlay">
+            <div class="overlay-inner">
+              <button class="close">
+                Close X
+              </button>
+              <div class="hdImgs">
+                <img alt="" class="againImg" src="https://unity-jnr.github.io/Images/Screenshot_20200407_135342.jpg">
+              </div>
+            </div>
+          </div>
+          <div class="btn-box">
+            <button class="btn">
+              View
+            </button>
+          </div>
+        </div>
+        <div class="project">
+          <img class="squareImg two" src="https://unity-jnr.github.io/Images/Screenshot_20200407_135210.jpg">
+          <div class="overlay">
+            <div class="overlay-inner">
+              <button class="close">
+                Close X
+              </button>
+              <div class="hdImgs">
+                <img alt="" class="againImg" src="https://unity-jnr.github.io/Images/Screenshot_20200407_135210.jpg">
+              </div>
+            </div>
+          </div>
+          <div class="btn-box">
+            <button class="btn">
+              View
+            </button>
+          </div>
+        </div>
+        <div class="project">
+          <img class="squareImg two" src="https://unity-jnr.github.io/Images/FullSizeRender-06-06-18-16-47.jpg">
+          <div class="overlay">
+            <div class="overlay-inner">
+              <button class="close">
+                Close X
+              </button>
+              <div class="hdImgs">
+                <img alt="" class="againImg" src="https://unity-jnr.github.io/Images/FullSizeRender-06-06-18-16-47.jpg">
+              </div>
+            </div>
+          </div>
+          <div class="btn-box">
+            <button class="btn">
+              View
+            </button>
+          </div>
+        </div>
+        <div class="project">
+          <img class="squareImg two" src="https://unity-jnr.github.io/Images/FullSizeRender-06-06-18-16-47-4.jpg">
+          <div class="overlay">
+            <div class="overlay-inner">
+              <button class="close">
+                Close X
+              </button>
+              <div class="hdImgs">
+                <img alt="" class="againImg" src="https://unity-jnr.github.io/Images/FullSizeRender-06-06-18-16-47-4.jpg">
+              </div>
+            </div>
+          </div>
+          <div class="btn-box">
+            <button class="btn">
+              View
+            </button>
+          </div>
+        </div>
+        <div class="project">
+          <img class="squareImg two" src="https://unity-jnr.github.io/Images/9.JPG">
+          <div class="overlay">
+            <div class="overlay-inner">
+              <button class="close">
+                Close X
+              </button>
+              <div class="hdImgs">
+                <img alt="" class="againImg" src="https://unity-jnr.github.io/Images/9.JPG">
               </div>
             </div>
           </div>
